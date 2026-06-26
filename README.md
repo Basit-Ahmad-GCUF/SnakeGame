@@ -30,7 +30,8 @@ This "Delay" is the in-game delay of the main game loop.
 https://github.com/Basit-Ahmad-GCUF/C-Utilities
 
 ## Author
-Basit Ahmad
+Basit Ahmad 
+Github: Basit-Ahmad-GCUF
 
 ## End Note
 I am a Student. Who is Currently learning So, If You encounter a Bug. Please Inform me So, I can Improve Myself
