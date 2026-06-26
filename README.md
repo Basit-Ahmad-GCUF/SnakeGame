@@ -10,7 +10,11 @@ This Game has Different Difficulty Levels you can set the Difficulty in-game. As
 Touching Any Border of the Board will kill the snake.
 
 ## How to Play
-Use W , A , S , D to Move the snake around the game. Try to Score the Highest!
+Use W , A , S , D to Move the snake around the game. 
+- Download this Repository. And Keep the SnakeGame_main.cpp and the Custom Header File I have Provided the Link to in a Same folder. And Use any C++ Compiler with ISO 17++ Settings. It will compile Flawlessly.
+OR 
+- Just Run the SnakeGame_main.exe and Play.
+Try to Score the Highest!
 
 ## Difficulty Levels
 The Game Speed are:
