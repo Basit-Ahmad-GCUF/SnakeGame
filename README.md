@@ -18,7 +18,7 @@ The Game Speed are:
 2. Medium = 100ms Delay.
 3. Hard = 50ms Delay.
 4. Hardcore = 25ms Delay.
-   This "Delay" is the in-game delay of the main game loop.
+This "Delay" is the in-game delay of the main game loop.
    
 ## Built With
 - C++
